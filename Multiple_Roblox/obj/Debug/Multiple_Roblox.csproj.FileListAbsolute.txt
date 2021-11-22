@@ -1,0 +1,10 @@
+C:\Users\phoen\source\repos\Multiple_Roblox\Multiple_Roblox\bin\Debug\Multiple_Roblox.exe.config
+C:\Users\phoen\source\repos\Multiple_Roblox\Multiple_Roblox\bin\Debug\Multiple_Roblox.exe
+C:\Users\phoen\source\repos\Multiple_Roblox\Multiple_Roblox\bin\Debug\Multiple_Roblox.pdb
+C:\Users\phoen\source\repos\Multiple_Roblox\Multiple_Roblox\obj\Debug\Multiple_Roblox.csprojAssemblyReference.cache
+C:\Users\phoen\source\repos\Multiple_Roblox\Multiple_Roblox\obj\Debug\Multiple_Roblox.Form1.resources
+C:\Users\phoen\source\repos\Multiple_Roblox\Multiple_Roblox\obj\Debug\Multiple_Roblox.Properties.Resources.resources
+C:\Users\phoen\source\repos\Multiple_Roblox\Multiple_Roblox\obj\Debug\Multiple_Roblox.csproj.GenerateResource.cache
+C:\Users\phoen\source\repos\Multiple_Roblox\Multiple_Roblox\obj\Debug\Multiple_Roblox.csproj.CoreCompileInputs.cache
+C:\Users\phoen\source\repos\Multiple_Roblox\Multiple_Roblox\obj\Debug\Multiple_Roblox.exe
+C:\Users\phoen\source\repos\Multiple_Roblox\Multiple_Roblox\obj\Debug\Multiple_Roblox.pdb
